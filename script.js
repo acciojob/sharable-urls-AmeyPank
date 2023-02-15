@@ -8,7 +8,7 @@ var btn = document.querySelector("#button");
 function handleSubmit(event) {
 	event.preventDefault();
 	
-	var heValue= 'https://localhost:8080/';
+	var h3Value= 'https://localhost:8080/';
 	var name = nameElement.value;
 	var year = yearElement.value;
 	
